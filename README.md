@@ -1,3 +1,4 @@
 # dsci-100-project_template
 Template project repository for DSCI-100
-demo pencil tool.
+- demo pencil tool.
+- demo using the git pull command.
